@@ -1,2 +1,2 @@
 # Nodemailer-App
-Nodemailer app using nodemailer package.
+This is simple app using nodemailer package to send email to a designated mail
